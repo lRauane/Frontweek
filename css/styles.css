@@ -570,6 +570,9 @@ i {
   #navbar {
     display: none;
   }
+  #brand{
+    margin-bottom: 10px;
+  }
 
   #menu,
   #close-menu {

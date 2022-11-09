@@ -44,7 +44,7 @@ i {
   position: relative;
 }
 
-.video-container {
+ .video-container {
   position: absolute;
   top: 0;
   left: 0;
@@ -52,8 +52,7 @@ i {
   height: 100%;
   object-fit: cover;
   z-index: -2;
-
-}
+} 
 
 #inner-header {
   display: flex;
@@ -129,6 +128,7 @@ i {
 .dot.active {
   background-color: var(--main-color);
 }
+
 
 /* Áreas de atuação */
 .text-image-section {
